@@ -85,7 +85,7 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 
 ## 📜 Education & Certifications
 
-- **HNC Computing with Networking** – City of Glasgow College  
+- **HNC Computing with Networking** – Kelvin College  
 - **NC Computing with Digital Media**  
 - **Certs:**  
   - GDPR & Cybersecurity (Articulate)  
