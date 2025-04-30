@@ -28,17 +28,12 @@ I’m a motivated and adaptable tech enthusiast based in Glasgow with experience
 
 ## 🧱 Featured Projects
 
-### PS4 UI Enhancer *(Modded Interface Design)*
-Custom dashboard interface designed for better visual accessibility  
-[View Screenshot](#) *(link your image)*
-
-### Game Helper Bot *(Python CLI Tool)*
-CLI tool for managing console mods and backups  
-[GitHub Repo](https://github.com/MrJasonDEX)
-
-### My CV Website
+### My CV Website  
 Explore my full background, interactive CV, and highlights  
 [![Visit CV Site](https://img.shields.io/badge/Portfolio-Site-333?style=flat&logo=githubpages&logoColor=white)](https://mrjasondex.github.io/CV-Work/)
+
+### Modding Resource Website *(Coming Soon)*  
+A dedicated platform for ethical modding guides, tutorials, and community contributions — stay tuned!
 
 ---
 
