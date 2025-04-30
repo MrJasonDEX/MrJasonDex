@@ -1,4 +1,4 @@
-![Banner - Animated digital banner.](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif "A dynamic banner showcasing creativity, technology, and community impact.")
+![Banner - Animated digital banner.](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <div align="center">
   <h1>Hi, I’m Jason Gillan!</h1>
@@ -8,13 +8,15 @@
   <br>
   <a href="./Jason-Gillan.pdf"><img src="https://img.shields.io/badge/CV-Jason%20Gillan-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Jason's CV"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=freelancer&logoColor=white" alt="Open to Work">
+  <br><br>
+  <a href="https://mrjasondex.github.io/CV-Work/"><strong>Visit my CV & Portfolio Website</strong></a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I’m a motivated and adaptable tech enthusiast based in Glasgow with experience in IT, digital workshops, console modding, and support roles. I bring energy, empathy, and practical problem-solving to every project.
+I’m a motivated and adaptable tech enthusiast based in Glasgow with experience in IT, digital design, console modding, and support roles. I bring energy, empathy, and practical problem-solving to every project.
 
 - **Core Strengths:** Troubleshooting, accessibility-first design, GDPR compliance, and digital engagement  
 - **Tech Focus:** Cybersecurity, automation, ethical modding, and inclusive platforms  
@@ -24,19 +26,35 @@ I’m a motivated and adaptable tech enthusiast based in Glasgow with experience
 
 ---
 
-## 🧠 Past Projects – The Articulate Hub
+## 🧱 Featured Projects
+
+### PS4 UI Enhancer *(Modded Interface Design)*
+Custom dashboard interface designed for better visual accessibility  
+[View Screenshot](#) *(link your image)*
+
+### Game Helper Bot *(Python CLI Tool)*
+CLI tool for managing console mods and backups  
+[GitHub Repo](https://github.com/MrJasonDEX)
+
+### My CV Website
+Explore my full background, interactive CV, and highlights  
+[![Visit CV Site](https://img.shields.io/badge/Portfolio-Site-333?style=flat&logo=githubpages&logoColor=white)](https://mrjasondex.github.io/CV-Work/)
+
+---
+
+## 💡 Past Projects – The Articulate Hub
 
 While working with Articulate Cultural Trust, I helped co-develop a digital ecosystem for care-experienced youth. Projects were trauma-informed and built for impact.
 
 - **The Vault** – Secure personal document/memory storage  
   [![Access Vault](https://img.shields.io/badge/Access-Vault-brightgreen)](https://vault.articulatehub.com/)
 
-- **Buddy AI** – A gentle, helpful AI assistant for life support  
+- **Buddy AI** – Empathetic assistant for personalised support  
 
-- **The Studio** – Over 120 courses on arts, tech, and personal growth  
+- **The Studio** – 120+ creative and personal growth courses  
   [![Access Studio](https://img.shields.io/badge/Access-Studio-blue)](http://studio.articulatehub.com/)
 
-- **The Gallery** – Digital art and creativity showcase space  
+- **The Gallery** – Digital art & community showcase space  
 
 ---
 
@@ -44,31 +62,30 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 
 **Digital Assistant** – *Articulate Cultural Trust (2023–2025)*  
 - Delivered trauma-informed online workshops  
-- Supported secure digital platforms and GDPR compliance  
-- Provided real-time IT support during live sessions  
-- Fire Warden & First Aid responsibilities on-site  
+- Supported digital platforms and GDPR compliance  
+- Provided real-time IT support  
+- Fire Warden & First Aid lead  
 
-**Team Leader / Cook** – *Celtic Park & Hampden (2022–2024)*  
-- Led teams during football events, ensured food safety & customer service  
-- Managed stock and team training  
+**Hospitality Team Leader / Cook** – *Celtic Park & Hampden (2022–2024)*  
+- Led teams during events, ensured food hygiene, trained new staff  
 
 **COVID Safety Cleaner** – *BT Building / 999 Centre (2021)*  
-- Maintained sanitation in critical emergency workplaces during the pandemic  
+- Kept emergency ops safe during the pandemic  
 
 ---
 
-## 🎮 Console Modding & Gaming Passion
+## 🎮 Console Modding & Gaming
 
-- **PS3/PS4/PS5 Mods:** Custom firmware, Rebug, Webman, HEN  
-- **Accessibility & UI Tweaks:** Custom interfaces for ease of use  
-- **Homebrew Development:** Expanding console potential  
-- **Community Contributor:** Forums, guides, and safe modding advice
+- **PS3/PS4/PS5 Mods:** CFW, Webman, HEN, UI enhancements  
+- **Accessibility Mods:** Custom UI for vision or motor impairments  
+- **Homebrew & Tooling:** Unlock new functionality ethically  
+- **Community Contributor:** Forums, Discords, modding guides  
 
-![Mod Preview](https://user-images.githubusercontent.com/your-mod-preview.gif "Preview of a modded gaming interface.")
+![Mod Preview](https://user-images.githubusercontent.com/your-mod-preview.gif)
 
 ---
 
-## 🛠 Skills at a Glance
+## 🛠 Tech Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,36 +94,43 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 - **Languages:** HTML, CSS, JS, Python, C#  
-- **Cybersecurity:** VPNs, firewalls, GDPR, secure storage  
-- **Gaming Tools:** Modding firmware, UI tweaks, backup managers  
-- **Accessibility:** Alt-text, WCAG compliance, inclusive design
+- **Cybersecurity:** VPNs, firewalls, ethical hacking basics  
+- **Gaming Tools:** Rebug, HEN, Webman  
+- **Accessibility:** WCAG compliance, alt-text, keyboard nav
+
+---
+
+## 📚 Currently Exploring
+
+- Ethical hacking labs (TryHackMe / HackTheBox)  
+- Automating console tasks with Python  
+- Building mini tools with HTML/CSS/JS  
+- Raspberry Pi automation (scripts & sensors)  
 
 ---
 
 ## 📜 Education & Certifications
 
-- **HNC Computing with Networking** – Kelvin College  
+- **HNC Computing with Networking** – City of Glasgow College  
 - **NC Computing with Digital Media**  
-- **Certs:**  
-  - GDPR & Cybersecurity (Articulate)  
-  - Food Safety L2, Alcohol, Allergens  
-  - Health & Safety, Fire Warden, First Aid  
+- **Certs:** GDPR, Cybersecurity, Food Safety, First Aid, Fire Warden
 
 ---
 
-## 🏆 Recognition & Community Work
+## 🏆 Recognition & Volunteering
 
 - **Creative Assistant Programme (2022)**  
 - **Enable Scotland Fundraiser:** Raised £1,000+  
-- **GMAC Film Projects:** Created & mentored in creative workshops  
-- **Food Bank Volunteer** – Bannerman High School
+- **GMAC Film Projects:** Created short films with care-experienced youth  
+- **Local Food Bank Volunteer** – Bannerman High School
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonArticulate&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonArticulate&show_icons=true&theme=radical" alt="GitHub stats"><br>
+  <img src="https://streak-stats.demolab.com?user=JasonArticulate&theme=radical" alt="GitHub Streak Stats">
 </p>
 
 ---
@@ -123,9 +147,9 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 
 ## 💰 Support My Work
 
-If you’ve found my tools or insights useful and want to support my journey:  
+If you’ve found my projects useful or want to support what I do:  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MrJasonDEX)
 
 ---
 
-> **Looking Ahead:** I’m eager to join new IT or digital projects where I can bring value, grow with purpose, and make a difference through secure and creative tech.
+> **Looking Ahead:** Open to collaborating or working on digital projects where I can bring tech, creativity, and community impact together.
