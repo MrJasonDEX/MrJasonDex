@@ -1,8 +1,8 @@
 ![Banner - Animated digital banner.](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <div align="center">
-  <h1>Hi, I’m Jason Gillan!</h1>
-  <p><strong>Digital Assistant | Console Modder | Cybersecurity Enthusiast | Community Builder</strong></p>
+  <h1>Hi, I’m Jason !</h1>
+  <p><strong>Digital IT | Console Modder | Cybersecurity Enthusiast | Community Builder</strong></p>
   <p>Building secure, creative, and inclusive tech experiences that empower communities and individuals.</p>
   <p><strong>Currently open to IT or digital roles — freelance, full-time, or collaborative projects</strong></p>
   <br>
