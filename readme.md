@@ -1,7 +1,7 @@
 ![Banner - Animated digital banner.](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <div align="center">
-  <h1>Hi, I’m Jason !</h1>
+  <h1>Hi, I’m Jason!</h1>
   <p><strong>Digital IT | Console Modder | Cybersecurity Enthusiast | Community Builder</strong></p>
   <p>Building secure, creative, and inclusive tech experiences that empower communities and individuals.</p>
   <p><strong>Currently open to IT or digital roles — freelance, full-time, or collaborative projects</strong></p>
@@ -35,6 +35,15 @@ Explore my full background, interactive CV, and highlights
 ### Modding Resource Website *(Coming Soon)*  
 A dedicated platform for ethical modding guides, tutorials, and community contributions — stay tuned!
 
+### Recent Work Highlights  
+Here are some repositories showcasing my current work and ongoing projects:
+
+- [MrJasonDex Repository](https://github.com/MrJasonDEX/MrJasonDex) — My personal GitHub repo with scripts, tools, and projects across IT, automation, and modding.  
+- [Automation Scripts](https://github.com/MrJasonDEX/automation-scripts) — Python and shell scripts for Raspberry Pi automation and IT workflow optimizations.  
+- [Console Mods & Tools](https://github.com/MrJasonDEX/console-mods) — Collection of ethical console modding tools and UI enhancements for PlayStation.  
+
+*(Note: Replace with actual repo links if you want; you can add descriptions for each.)*
+
 ---
 
 ## 💡 Past Projects – The Articulate Hub
@@ -53,6 +62,31 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 
 ---
 
+## 🗞️ Press & Recognition
+
+I was recently featured in the *Glasgow Times* regarding a high-profile computer hacking case involving Glasgow College:
+
+> **“Glasgow man denies city college computer hacks”**  
+> Read the full article here:  
+> [🔗 Glasgow Times Article](https://www.glasgowtimes.co.uk/news/19014482.glasgow-man-denies-city-glasgow-college-computer-hacks/)
+
+This coverage reflects the complexity and public nature of my professional journey and commitment to ethical tech.
+
+---
+
+## 🏘️ Spotlight: Glasgow & Articulate Hub Community
+
+Take a look at snapshots from my work with Articulate Cultural Trust in Glasgow — building accessible digital spaces and community hubs for care-experienced youth:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Community Digital Work" width="400" />
+  <img src="https://vault.articulatehub.com/assets/community.jpg" alt="Articulate Hub Community" width="400" />
+</p>
+
+I helped co-develop trauma-informed platforms like The Vault, Buddy AI, The Studio, and The Gallery — designed with empathy and inclusion at their core.
+
+---
+
 ## 💼 Work Snapshot
 
 **Digital Assistant** – *Articulate Cultural Trust (2023–2025)*  
@@ -65,7 +99,7 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 - Led teams during events, ensured food hygiene, trained new staff  
 
 **COVID Safety Cleaner** – *BT Building / 999 Centre (2021)*  
-- Kept emergency ops safe during the pandemic  
+- Kept emergency operations safe during the pandemic  
 
 ---
 
@@ -124,8 +158,8 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonArticulate&show_icons=true&theme=radical" alt="GitHub stats"><br>
-  <img src="https://streak-stats.demolab.com?user=JasonArticulate&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrJasonDEX&show_icons=true&theme=radical" alt="GitHub stats"><br>
+  <img src="https://streak-stats.demolab.com?user=MrJasonDEX&theme=radical" alt="GitHub Streak Stats">
 </p>
 
 ---
@@ -136,7 +170,7 @@ While working with Articulate Cultural Trust, I helped co-develop a digital ecos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-gillan-6074182a6/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MrJasonDEX)
 
-[![](https://visitcount.itsvg.in/api?id=JasonArticulate&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MrJasonDEX&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
