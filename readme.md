@@ -9,7 +9,7 @@
 🚀 Building secure, creative, and inclusive tech experiences that empower communities and individuals.  
 💼 Open to **IT or digital roles** — freelance, full-time, or collaborations.  
 
-[![CV](https://img.shields.io/badge/CV-Jason%20Gillan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](./Jason-Gillan.pdf)
+[![CV](https://img.shields.io/badge/CV-Jason%20-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](./Jason-Gillan.pdf)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=freelancer&logoColor=white)  
 [🌐 **Visit my CV & Portfolio Website**](https://mrjasondex.github.io/CV-Work/)
 
